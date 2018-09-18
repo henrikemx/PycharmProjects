@@ -1,6 +1,5 @@
 from datetime import datetime
 
-
 while True:
     ano = int(input('\nInforme o ano: '))
     atual = datetime.now().year
@@ -25,11 +24,9 @@ while True:
         if ano % 4 == 0 and ano % 100 != 0 or ano % 400 == 0:
             bis += 366
             anob += 1
-            #print(f'{ano} foi Bissexto')
         else:
             nobis += 366
             anoob += 1
-            #print(f'{ano} não foi Bissexto')
         ano += 1
         if ano == atual:
             break
