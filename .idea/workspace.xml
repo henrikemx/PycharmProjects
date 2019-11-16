@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a025efa1-8d16-45fc-9e3d-755d3c40765e" name="Default" comment="Arquivos atualizados às 19:31 hs de 16/11/2019">
-      <change afterPath="$PROJECT_DIR$/ex112/teste.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex112/utilidadescev/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex112/utilidadescev/dado/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex112/utilidadescev/moeda/__init__.py" afterDir="false" />
+    <list default="true" id="a025efa1-8d16-45fc-9e3d-755d3c40765e" name="Default" comment="Arquivos atualizados às 19:39 hs de 16/11/2019">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex112/teste.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex112/teste.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex112/utilidadescev/dado/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex112/utilidadescev/dado/__init__.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +82,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.teste (2)">
+  <component name="RunManager" selected="Python.teste (4)">
     <configuration name="ex107" type="PythonConfigurationType" factoryName="Python">
       <module name="exercicios-cursoemvideo-python3-mundo3" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -168,7 +167,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="teste (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="teste (4)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -176,11 +175,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex108" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex112" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex108/teste.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex112/teste.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -212,19 +211,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.ex107" />
-      <item itemvalue="Python.teste (3)" />
       <item itemvalue="Python.moeda" />
       <item itemvalue="Python.teste" />
       <item itemvalue="Python.teste (1)" />
       <item itemvalue="Python.teste (2)" />
+      <item itemvalue="Python.teste (4)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.teste (4)" />
         <item itemvalue="Python.teste (2)" />
         <item itemvalue="Python.teste (1)" />
         <item itemvalue="Python.teste" />
         <item itemvalue="Python.moeda" />
-        <item itemvalue="Python.teste (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -463,7 +462,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573943663230</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Arquivos atualizados às 19:39 hs de 16/11/2019">
+      <created>1573943950142</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1573943950142</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -564,7 +570,8 @@
     <MESSAGE value="Arquivos atualizados às 23:18 hs de 15/11/2019" />
     <MESSAGE value="Arquivos atualizados às 19:30 hs de 16/11/2019" />
     <MESSAGE value="Arquivos atualizados às 19:31 hs de 16/11/2019" />
-    <option name="LAST_COMMIT_MESSAGE" value="Arquivos atualizados às 19:31 hs de 16/11/2019" />
+    <MESSAGE value="Arquivos atualizados às 19:39 hs de 16/11/2019" />
+    <option name="LAST_COMMIT_MESSAGE" value="Arquivos atualizados às 19:39 hs de 16/11/2019" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
