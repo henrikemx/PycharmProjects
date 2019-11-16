@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a025efa1-8d16-45fc-9e3d-755d3c40765e" name="Default" comment="Arquivos atualizados às 19:31 hs de 16/11/2019" />
+    <list default="true" id="a025efa1-8d16-45fc-9e3d-755d3c40765e" name="Default" comment="Arquivos atualizados às 19:31 hs de 16/11/2019">
+      <change afterPath="$PROJECT_DIR$/ex112/teste.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex112/utilidadescev/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex112/utilidadescev/dado/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex112/utilidadescev/moeda/__init__.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,8 +64,8 @@
       <recent name="$PROJECT_DIR$/exercicios-cursoemvideo-python3-mundo3/Aula22/ex107" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/exercicios-cursoemvideo-python3-mundo3/Aula22" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/exercicios-cursoemvideo-python3-mundo3/Aula22" />
       <recent name="$PROJECT_DIR$/exercicios-cursoemvideo-python3-mundo3/Aula22/exer108" />
       <recent name="$PROJECT_DIR$/exercicios-cursoemvideo-python3-mundo3/Aula20" />
       <recent name="$PROJECT_DIR$/exercicios-cursoemvideo-python3-mundo3/Aula19" />
@@ -451,7 +456,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573943514857</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Arquivos atualizados às 19:31 hs de 16/11/2019">
+      <created>1573943663230</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1573943663230</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
