@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a025efa1-8d16-45fc-9e3d-755d3c40765e" name="Default" comment="Arquivos atualizados às 23:18 hs de 15/11/2019" />
+    <list default="true" id="a025efa1-8d16-45fc-9e3d-755d3c40765e" name="Default" comment="Arquivos atualizados às 19:31 hs de 16/11/2019" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -437,7 +437,21 @@
       <option name="project" value="LOCAL" />
       <updated>1573870695362</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Arquivos atualizados às 19:30 hs de 16/11/2019">
+      <created>1573943438634</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1573943438634</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Arquivos atualizados às 19:31 hs de 16/11/2019">
+      <created>1573943514857</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1573943514857</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -536,7 +550,9 @@
     <MESSAGE value="Arquivos atualizados às 17:24 hs de 15/11/2019" />
     <MESSAGE value="Arquivos atualizados às 22:30 hs de 15/11/2019" />
     <MESSAGE value="Arquivos atualizados às 23:18 hs de 15/11/2019" />
-    <option name="LAST_COMMIT_MESSAGE" value="Arquivos atualizados às 23:18 hs de 15/11/2019" />
+    <MESSAGE value="Arquivos atualizados às 19:30 hs de 16/11/2019" />
+    <MESSAGE value="Arquivos atualizados às 19:31 hs de 16/11/2019" />
+    <option name="LAST_COMMIT_MESSAGE" value="Arquivos atualizados às 19:31 hs de 16/11/2019" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
