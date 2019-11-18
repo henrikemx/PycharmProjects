@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a025efa1-8d16-45fc-9e3d-755d3c40765e" name="Default" comment="Arquivos atualizados às 19:39 hs de 16/11/2019">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex112/teste.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex112/teste.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex112/utilidadescev/dado/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex112/utilidadescev/dado/__init__.py" afterDir="false" />
+    <list default="true" id="a025efa1-8d16-45fc-9e3d-755d3c40765e" name="Default" comment="Arquivos atualizados às 18:44 hs de 18/11/2019">
+      <change beforePath="$PROJECT_DIR$/AulasTeoricas" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios-cursoemvideo-python3-mundo1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios-cursoemvideo-python3-mundo2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios-cursoemvideo-python3-mundo3" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -469,7 +470,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573943950142</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Arquivos atualizados às 18:44 hs de 18/11/2019">
+      <created>1574113533807</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1574113533807</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -571,7 +579,8 @@
     <MESSAGE value="Arquivos atualizados às 19:30 hs de 16/11/2019" />
     <MESSAGE value="Arquivos atualizados às 19:31 hs de 16/11/2019" />
     <MESSAGE value="Arquivos atualizados às 19:39 hs de 16/11/2019" />
-    <option name="LAST_COMMIT_MESSAGE" value="Arquivos atualizados às 19:39 hs de 16/11/2019" />
+    <MESSAGE value="Arquivos atualizados às 18:44 hs de 18/11/2019" />
+    <option name="LAST_COMMIT_MESSAGE" value="Arquivos atualizados às 18:44 hs de 18/11/2019" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
