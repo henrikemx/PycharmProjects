@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a025efa1-8d16-45fc-9e3d-755d3c40765e" name="Default" comment="Arquivos atualizados às 18:44 hs de 18/11/2019">
-      <change afterPath="$PROJECT_DIR$/Matematica/calMedia.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a025efa1-8d16-45fc-9e3d-755d3c40765e" name="Default" comment="Arquivos atualizados às 18:44 hs de 18/11/2019" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
