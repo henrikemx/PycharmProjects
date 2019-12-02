@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a025efa1-8d16-45fc-9e3d-755d3c40765e" name="Default" comment="Arquivos atualizados às 18:44 hs de 18/11/2019" />
+    <list default="true" id="a025efa1-8d16-45fc-9e3d-755d3c40765e" name="Default" comment="Arquivos atualizados às 22:30 hs de 01/12/2019" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -479,7 +479,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575250249015</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Arquivos atualizados às 22:30 hs de 01/12/2019">
+      <created>1575250362090</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1575250362090</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -585,7 +592,8 @@
     <MESSAGE value="Arquivos atualizados às 19:31 hs de 16/11/2019" />
     <MESSAGE value="Arquivos atualizados às 19:39 hs de 16/11/2019" />
     <MESSAGE value="Arquivos atualizados às 18:44 hs de 18/11/2019" />
-    <option name="LAST_COMMIT_MESSAGE" value="Arquivos atualizados às 18:44 hs de 18/11/2019" />
+    <MESSAGE value="Arquivos atualizados às 22:30 hs de 01/12/2019" />
+    <option name="LAST_COMMIT_MESSAGE" value="Arquivos atualizados às 22:30 hs de 01/12/2019" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
