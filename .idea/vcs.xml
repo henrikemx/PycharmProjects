@@ -2,9 +2,5 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/AulasTeoricas" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/exercicios-cursoemvideo-python3-mundo1" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/exercicios-cursoemvideo-python3-mundo2" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/exercicios-cursoemvideo-python3-mundo3" vcs="Git" />
   </component>
 </project>

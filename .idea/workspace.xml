@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a025efa1-8d16-45fc-9e3d-755d3c40765e" name="Default" comment="Arquivos atualizados às 18:44 hs de 18/11/2019">
-      <change beforePath="$PROJECT_DIR$/AulasTeoricas" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicios-cursoemvideo-python3-mundo1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicios-cursoemvideo-python3-mundo2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercicios-cursoemvideo-python3-mundo3" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matematica/calMedia.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +43,7 @@
     <property name="ChangesTree.GroupingKeys" value="directory" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.EditorConfig" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/exercicios-cursoemvideo-python3-mundo3/Aula22/ex107/teste.py" />
   </component>
   <component name="PyConsoleOptionsProvider">
@@ -83,7 +82,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.teste (4)">
+  <component name="RunManager" selected="Python.calMedia">
+    <configuration name="calMedia" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PycharmProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Matematica" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Matematica/calMedia.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="ex107" type="PythonConfigurationType" factoryName="Python">
       <module name="exercicios-cursoemvideo-python3-mundo3" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -97,27 +117,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicios-cursoemvideo-python3-mundo3/Aula22/ex107/teste.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="moeda" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PycharmProjects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex109" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex109/moeda.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -212,19 +211,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.ex107" />
-      <item itemvalue="Python.moeda" />
       <item itemvalue="Python.teste" />
       <item itemvalue="Python.teste (1)" />
       <item itemvalue="Python.teste (2)" />
       <item itemvalue="Python.teste (4)" />
+      <item itemvalue="Python.calMedia" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.calMedia" />
         <item itemvalue="Python.teste (4)" />
         <item itemvalue="Python.teste (2)" />
         <item itemvalue="Python.teste (1)" />
         <item itemvalue="Python.teste" />
-        <item itemvalue="Python.moeda" />
       </list>
     </recent_temporary>
   </component>
@@ -552,9 +551,12 @@
   <component name="VcsManagerConfiguration">
     <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
     <ignored-roots>
-      <path value="$PROJECT_DIR$" />
       <path value="$PROJECT_DIR$/PycharmProjects" />
       <path value="$PROJECT_DIR$/PythonExercicios" />
+      <path value="$PROJECT_DIR$/AulasTeoricas" />
+      <path value="$PROJECT_DIR$/exercicios-cursoemvideo-python3-mundo1" />
+      <path value="$PROJECT_DIR$/exercicios-cursoemvideo-python3-mundo2" />
+      <path value="$PROJECT_DIR$/exercicios-cursoemvideo-python3-mundo3" />
     </ignored-roots>
     <MESSAGE value="Arquivos atualizados às 20:40 hs de 18/08/2018" />
     <MESSAGE value="Arquivos atualizados às 09:10 hs de 19/08/2018" />
