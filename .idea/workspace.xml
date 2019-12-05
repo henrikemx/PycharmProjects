@@ -201,12 +201,12 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.calMedia" />
       <item itemvalue="Python.ex107" />
+      <item itemvalue="Python.teste" />
       <item itemvalue="Python.teste (1)" />
       <item itemvalue="Python.teste (2)" />
       <item itemvalue="Python.teste (4)" />
-      <item itemvalue="Python.teste" />
+      <item itemvalue="Python.calMedia" />
     </list>
     <recent_temporary>
       <list>
@@ -610,10 +610,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Arquivos atualizados às 22:30 hs de 01/12/2019" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="330" y="28" width="698" height="711" key="CommitChangelistDialog2" timestamp="1575385207807">
+    <state x="330" y="28" width="698" height="711" key="CommitChangelistDialog2" timestamp="1575584824842">
       <screen x="0" y="28" width="1366" height="712" />
     </state>
-    <state x="330" y="28" width="698" height="711" key="CommitChangelistDialog2/0.28.1366.712@0.28.1366.712" timestamp="1575385207807" />
+    <state x="330" y="28" width="698" height="711" key="CommitChangelistDialog2/0.28.1366.712@0.28.1366.712" timestamp="1575584824842" />
     <state width="595" height="365" key="GridCell.Tab.0.bottom" timestamp="1575385534277">
       <screen x="0" y="28" width="1366" height="712" />
     </state>
