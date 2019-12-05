@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a025efa1-8d16-45fc-9e3d-755d3c40765e" name="Default" comment="Arquivos atualizados às 22:30 hs de 01/12/2019" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="a025efa1-8d16-45fc-9e3d-755d3c40765e" name="Default" comment="Arquivos atualizados às 22:30 hs de 01/12/2019">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,12 +36,17 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="ChangesTree.GroupingKeys" value="directory" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.EditorConfig" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/exercicios-cursoemvideo-python3-mundo3/Aula22/ex107/teste.py" />
   </component>
   <component name="PyConsoleOptionsProvider">
@@ -67,19 +73,7 @@
       <recent name="$PROJECT_DIR$/exercicios-cursoemvideo-python3-mundo3/Aula19" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python.calMedia">
+  <component name="RunManager" selected="Python.teste (4)">
     <configuration name="calMedia" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PycharmProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -216,13 +210,25 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.calMedia" />
         <item itemvalue="Python.teste (4)" />
+        <item itemvalue="Python.calMedia" />
         <item itemvalue="Python.teste (2)" />
         <item itemvalue="Python.teste (1)" />
         <item itemvalue="Python.teste" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration>$PROJECT_DIR$/../.subversion</configuration>
@@ -487,7 +493,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575250362090</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Arquivos atualizados às 22:30 hs de 01/12/2019">
+      <created>1575385208777</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1575385208777</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -597,6 +610,34 @@
     <option name="LAST_COMMIT_MESSAGE" value="Arquivos atualizados às 22:30 hs de 01/12/2019" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="330" y="28" width="698" height="711" key="CommitChangelistDialog2" timestamp="1575385207807">
+      <screen x="0" y="28" width="1366" height="712" />
+    </state>
+    <state x="330" y="28" width="698" height="711" key="CommitChangelistDialog2/0.28.1366.712@0.28.1366.712" timestamp="1575385207807" />
+    <state width="595" height="365" key="GridCell.Tab.0.bottom" timestamp="1575385534277">
+      <screen x="0" y="28" width="1366" height="712" />
+    </state>
+    <state width="595" height="365" key="GridCell.Tab.0.bottom/0.28.1366.712@0.28.1366.712" timestamp="1575385534277" />
+    <state width="595" height="365" key="GridCell.Tab.0.center" timestamp="1575385534276">
+      <screen x="0" y="28" width="1366" height="712" />
+    </state>
+    <state width="595" height="365" key="GridCell.Tab.0.center/0.28.1366.712@0.28.1366.712" timestamp="1575385534276" />
+    <state width="595" height="365" key="GridCell.Tab.0.left" timestamp="1575385534276">
+      <screen x="0" y="28" width="1366" height="712" />
+    </state>
+    <state width="595" height="365" key="GridCell.Tab.0.left/0.28.1366.712@0.28.1366.712" timestamp="1575385534276" />
+    <state width="595" height="365" key="GridCell.Tab.0.right" timestamp="1575385534277">
+      <screen x="0" y="28" width="1366" height="712" />
+    </state>
+    <state width="595" height="365" key="GridCell.Tab.0.right/0.28.1366.712@0.28.1366.712" timestamp="1575385534277" />
+    <state x="172" y="28" key="SettingsEditor" timestamp="1575385392380">
+      <screen x="0" y="28" width="1366" height="712" />
+    </state>
+    <state x="172" y="28" key="SettingsEditor/0.28.1366.712@0.28.1366.712" timestamp="1575385392380" />
+    <state x="278" y="120" width="802" height="527" key="Vcs.Push.Dialog.v2" timestamp="1575385249921">
+      <screen x="0" y="28" width="1366" height="712" />
+    </state>
+    <state x="278" y="120" width="802" height="527" key="Vcs.Push.Dialog.v2/0.28.1366.712@0.28.1366.712" timestamp="1575385249921" />
     <state x="339" y="211" key="com.intellij.ide.util.TipDialog" timestamp="1575385185767">
       <screen x="0" y="28" width="1366" height="712" />
     </state>
