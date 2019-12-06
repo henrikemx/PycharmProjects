@@ -14,4 +14,3 @@ ser ocupado pelas bolinhas de queijo.
 Ajude a Krissia descobrir quantas bolinhas de queijo cabem no pote de sorvete!
 """
 
-
