@@ -32,19 +32,25 @@ print(f'=> M.G. = {mg:.2f}\n')
 print(f'=> M.H. = {mh:.2f}\n')
 
 print('#'*40)
-print(f'Logo, a maior média foi de {ma:.2f} e a menor de {mh:.2f}')
 
-for cnt in range(0, 4):
-    if cnt = 0:
-
-    if ma < mg > mh:
+# abaixo a lógica para identificar o MAIOR e o MENOR valores encontrados
+for cnt in range(0, 3):
+    if cnt == 0:
         maior = ma
         menor = ma
-    if mg > ma or mg > mh:
-        maior = mg
-        menor = mg
-    if mh > ma or mh > mg:
-        maior = mh
-        menor = mh
+    else:
+        if mg < ma > mh:
+            maior = ma
+        if mg > ma < mh:
+            menor = ma
+        if ma < mg > mh:
+            maior = mg
+        if ma > mg < mh:
+            menor = mg
+        if ma < mh > mg:
+            maior = mh
+        if ma > mh < mg:
+            menor = mh
 
-print(f'=> Logo, a MAIOR média foi {maior} e a MENOR foi {menor}')
+# abaixo, o resultado apresentado na tela do console...
+print(f'=> Logo, a \033[32mMAIOR\033[0;0m média foi {maior:.2f} e a \033[31mMENOR\033[0;0m foi {menor:.2f}')
