@@ -25,7 +25,7 @@ maior = menor = 0
 """
 p = list()
 for n in range(1, 4):
-    p[] = float(input('Informe a {n}ª nota:'))
+    p[n] = float(input(f'Informe a {n}ª nota: '))
 
 ma = (p1 + p2 + p3 + p4)/4
 mg = (p1 * p2 * p3 * p4) ** (1/4)
