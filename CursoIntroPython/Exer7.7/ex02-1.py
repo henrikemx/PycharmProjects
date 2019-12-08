@@ -16,11 +16,16 @@
 
 print('#'*40)
 # declarando as variáveis...
+"""
 p1 = 8.66
 p2 = 5.35
 p3 = 5
 p4 = 1
 maior = menor = 0
+"""
+p = list()
+for n in range(1, 4):
+    p[] = float(input('Informe a {n}ª nota:'))
 
 ma = (p1 + p2 + p3 + p4)/4
 mg = (p1 * p2 * p3 * p4) ** (1/4)
