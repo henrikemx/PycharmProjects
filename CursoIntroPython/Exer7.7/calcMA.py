@@ -52,7 +52,7 @@ print(f'=> O valor da M.H. do aluno foi de \033[33m{mh:.2f}\033[0;0m.')
 print('='*30)
 # antes de apresentar qual foi a MAIOR e MENOR média, será necessário
 # atribuit os valores a uma lista...
-md = [ma, mg, mh]
+md = [ma, mh, mg]
 
 # e para finalizar, será exibido qual a MAIOR e MENOR média...
 for m in range(0, len(md)):
@@ -62,7 +62,7 @@ for m in range(0, len(md)):
     else:
         if md[m] > maior:
             maior = md[m]
-        else:
+        if md[m] < menor:
             menor = md[m]
 
 print(f'=> A MAIOR média foi de \033[32m{maior:.2f}\033[0;0m e a MENOR de \033[31m{menor:.2f}\033[0;0m')
