@@ -25,6 +25,7 @@ print('='*20)
 for c in range(1, 5):
     media.append(float(input(f'Informe a {c}ª nota: ')))
 
+"""
 # expressão para cálculo da M.A.
 # ma = (n1 + n2 + n3 + n4) / 4
 # calculando a M.A.
@@ -40,6 +41,21 @@ mg = mult ** (1/4)
 # calculando a M.H...
 for n in range(0, len(media)):
     inverso += 1/media[n]
+mh = 4 / inverso
+"""
+
+# expressão para cálculo da M.A.
+# ma = (n1 + n2 + n3 + n4) / 4
+
+# esta parte do código foi deixado mais enxuto...
+
+# calculando a M.A.
+for n in range(0, len(media)):
+    soma += media[n]
+    mult *= media[n]
+    inverso += 1 / media[n]
+ma = soma / 4
+mg = mult ** (1/4)
 mh = 4 / inverso
 
 # apresentação do resultado...
