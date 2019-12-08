@@ -21,7 +21,7 @@ soma = inverso = maior = menor = 0
 mult = 1
 
 # informar os avlores das notas bimestrais...
-print('='*20)
+print('='*30)
 for c in range(1, 5):
     media.append(float(input(f'Informe a {c}ª nota: ')))
 
